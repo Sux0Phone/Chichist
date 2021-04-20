@@ -1,6 +1,6 @@
 # Chichist🤙
 
-[![wakatime](https://wakatime.com/badge/github/Sux0Phone/Chichist.svg)](https://wakatime.com/badge/github/Sux0Phone/Chichist)
+[![wakatime](https://wakatime.com/badge/github/Sux0Phone/Chichist.svg)](https://wakatime.com/badge/github/Sux0Phone/Chichist) *после v0.3 [APIs Update]*
 
 Это репозиторий с информацией для чат-бота Discord.  
 Префикс бота: 🤙 (именно желтый эмоджи).  
