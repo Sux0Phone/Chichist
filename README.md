@@ -32,7 +32,8 @@
 ⬜ команда *leaderboard* (просмотр топа по балансу)  
 
 #### Новая команда:
-⬜ *праздник* - узнать, какие сегодня праздники ([kakoysegodnyaprazdnik.ru](https://kakoysegodnyaprazdnik.ru), спасибо за идею Big Shlyopa)
+⬜ *праздник* - узнать, какие сегодня праздники ([kakoysegodnyaprazdnik.ru](https://kakoysegodnyaprazdnik.ru), спасибо за идею Big Shlyopa)  
+⬜ *aks* - анекдот из Сталкера (спасибо за идею Kinn)  
 
 #### Доработка имеющихся функций:
 ⬜ добавить игры в *отзыв* (благодарю за игры Big Shlyopa, Chartoph, Sergey Milevich)  
