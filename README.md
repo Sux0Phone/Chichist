@@ -3,9 +3,8 @@
 Это репозиторий с информацией для чат-бота Discord.  
 Префикс бота: 🤙 (именно желтый эмоджи).  
 
-*Актуальная версия: [v0.3.1 [ROFLs Update]](https://github.com/Sux0Phone/Chichist/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9#v031-rofls-update)*  
-Ушло времени на разработку после v0.3 [APIs Update]: [![wakatime](https://wakatime.com/badge/github/Sux0Phone/Chichist.svg)](https://wakatime.com/badge/github/Sux0Phone/Chichist)
-[История версий](https://github.com/Sux0Phone/Chichist/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)  
+Актуальная версия: *[v0.3.1 [ROFLs Update]](https://github.com/Sux0Phone/Chichist/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9#v031-rofls-update)* / [История версий](https://github.com/Sux0Phone/Chichist/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)  
+Ушло времени на разработку после v0.3 [APIs Update]: [![wakatime](https://wakatime.com/badge/github/Sux0Phone/Chichist.svg)](https://wakatime.com/badge/github/Sux0Phone/Chichist)    
 
 ### Список команд:  
 Доступен по [ссылке](https://github.com/Sux0Phone/Chichist/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4).  
